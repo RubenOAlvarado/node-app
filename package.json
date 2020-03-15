@@ -1,0 +1,25 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "hello jenkins test app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenOAlvarado/node-app.git"
+  },
+  "author": "Rubén O. Alvarado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "7.1.0",
+    "supertest": "4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/RubenOAlvarado/node-app/issues"
+  },
+  "homepage": "https://github.com/RubenOAlvarado/node-app#readme"
+}
